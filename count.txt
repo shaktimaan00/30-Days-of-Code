@@ -1,0 +1,30 @@
+day1 total = 0 + 5 = 5
+day2 total = 5 + 5 = 10
+day3 total = 10 + 3 = 13
+day4 total = 13 + 2 = 15
+day5 total = 15 + 4 = 19
+day6 total = 19 + 6 = 25
+day7 total = 25 + 3 = 28
+day8 total = 28 + 3 = 31
+day9 total = 31 + 5 = 36
+day10 total = 36 + 4 = 40
+day11 total = 40 + 3 = 43
+day12 total = 43 + 4 = 47
+day13 total = 47 + 2 = 49
+day14 total = 49 + 2 = 52
+day15 total = 52 + 10 = 62
+day16 total = 62 + 3 = 65
+day17 total = 65 + 4 = 69
+day18 total = 69 + 7 = 75
+day19 total = 75 + 5 = 80
+day20 total = 80 + 8 = 88
+day21 total = 88 + 
+day22 total = 
+day23 total = 
+day24 total = 
+day25 total = 
+day26 total = 
+day27 total = 
+day28 total = 
+day29 total = 
+day30 total = 
